@@ -1,0 +1,9 @@
+{
+  "name": "Neon Dash",
+  "short_name": "NeonDash",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#050516",
+  "theme_color": "#070712"
+}
